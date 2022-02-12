@@ -29,10 +29,24 @@ This mod has the following tweaks enabled:
 - Reduce Steel Screw recipe output 100 -> 50
 - Remove carrot from Meat Stew recipe
 - Replace mushroom with corn in Fried Soy Beans recipe
-- Reduce ALL DRINK recipes 50 -> 10
+- Reduce cost of ALL DRINK recipes 50 -> 10
 
 ## Install
 
 Download the [latest release](https://github.com/vivekvasani/icarus-mods/releases/latest) and run the installer.
 
 The installer will look for the Icarus installation in your SteamLibrary folder and copy .pak files to the \mods folder.
+
+If the installer does not work, then you can download the .pak files from the /paks folder and put them in `{your_steam_library_folder}\steamapps\common\Icarus\Icarus\Content\Paks\mods`, following the Manual Install instructions below
+
+## Install [Manual]
+
+- Open Steam
+- Right-Click `Icarus`
+- Click `Properties...`
+- Select `Local Files` tab
+- Click `Browse`
+- Go to `\Icarus\Content\Paks\mods`. If there is no `mods` folder, create one inside `Paks`
+- Put the `.pak` files, found in this repo's `/paks` folder, in to the `mods` folder
+- Launch the game
+
