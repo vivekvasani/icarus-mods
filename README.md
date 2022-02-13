@@ -10,7 +10,6 @@ This mod has the following tweaks enabled:
 - Increase Cost for Machining Bench
   - Iron Ingot 40 -> 60
   - Epoxy 10 -> 20
-- Double the speed of the Extractor
 - Allow Empty Glass Jars to stack to 20
 - Increase Raw Prime Meat spoil time 180 -> 300
 - Reduce Pistol reload time 3 -> 1
@@ -30,6 +29,9 @@ This mod has the following tweaks enabled:
 - Remove carrot from Meat Stew recipe
 - Replace mushroom with corn in Fried Soy Beans recipe
 - Reduce cost of ALL DRINK recipes 50 -> 10
+- Increase the durability of Workshop Tools/Weapons by about ~60%
+- Increase Fuel Can slots on all items that take Biofuel 1 -> 2
+- Increase Extractor Biofuel efficiency by 20%
 
 ## Install
 
